@@ -1,0 +1,34 @@
+{
+  "chats": [
+    {
+      "id": 1,
+      "message": "Hii....",
+      "user_id": 1
+    },
+    {
+      "id": 2,
+      "message": "Hiii Paul",
+      "user_id": 2
+    },
+    {
+      "id": 3,
+      "message": "How Are you...?",
+      "user_id": 1
+    },
+    {
+      "id": 4,
+      "message": "Fine ..... And you...?",
+      "user_id": 2
+    },
+    {
+      "id": 5,
+      "message": "I'm Also Fine.... Where Are You....?",
+      "user_id": 1
+    },
+    {
+      "id": 6,
+      "message": "I'm in Chennai....",
+      "user_id": 2
+    }
+  ]
+}
